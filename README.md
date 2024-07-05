@@ -1,3 +1,4 @@
+Build a weather dashboard that provides current weather information and forecasts for different cities. The application should allow users to search for cities and display the current weather and a 7-day forecast. Use React+Vite for the front-end, and a weather API  OpenWeatherMap for data.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
